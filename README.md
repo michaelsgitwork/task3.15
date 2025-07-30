@@ -15,7 +15,7 @@ sensor_id: "TC-05-GER" and timestamp: "2025-07-29T08:46:15Z" has a data_source_v
 5. Value: give insights to improve urban planning and public health in Germiston.
 administrators can identify congestion hotspots and suggest alternate routes via a Smart City app
 
-         ## Task 2: Data Quality Assessment
+ ## Task 2: Data Quality Assessment
 
 1. Data quality refers to the degree to which data is accurate, complete, consistent, timely, and relevant, enabling it to serve its intended purpose effectively.
 
@@ -23,7 +23,7 @@ administrators can identify congestion hotspots and suggest alternate routes via
 Missing or Invalid Data Values - makes it hard to understand whats going on
 Missing Data Type - data.type: null - also makes it hard to understand whats going on
 
-        ## Task 3: Data Governance & Security
+   ## Task 3: Data Governance & Security
 
 2. Data Breach disadvantages
 -gives competition the upper hand as they can copy you 
